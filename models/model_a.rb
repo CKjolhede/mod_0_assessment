@@ -1,0 +1,9 @@
+"den_to_mco" = {
+  "departure_city" => "Denver",
+  "arrival_city" => "Las Vegas",
+  "max_occupancy" => 153,
+  "ave_tic_price" => 121.5,
+  "carryon_fee" => true,
+  "air_marshal_present" => false,
+  "snacks" => ['peanuts', 'pretzels', 'vodka'],
+  "movies" => ['Annie', 'Big', 'It']}
